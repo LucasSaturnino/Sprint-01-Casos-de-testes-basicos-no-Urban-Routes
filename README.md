@@ -4,7 +4,7 @@ Aplicar técnicas desenvolvidas no curso de Analista de testes/QA da TripleTen.
 
 **Introdução**
 
-O curso de Analista de testes/QA da TripleTen possui uma plataforma dívida em sprint, aplicando conceito em simulações de testes, a primeira sprint objetiva a decomposição e visualização dos requisitos de um aplicativo web “Urban Routes”, preparo de casos de testes básicos e uso do conceito de particionamento de classes de equivalência e limites.
+A primeira sprint objetiva a decomposição e visualização dos requisitos de um aplicativo web “Urban Routes”, preparo de casos de testes básicos e uso do conceito de particionamento de classes de equivalência e limites.
  
 **Resultado**
 
