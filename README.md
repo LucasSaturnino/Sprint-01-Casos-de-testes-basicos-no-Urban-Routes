@@ -2,17 +2,17 @@
 
 📌 Descrição
 
-Este projeto tem como objetivo analisar e validar o funcionamento de um aplicativo web de rotas urbanas, com foco na identificação de inconsistências, validação de requisitos e análise de comportamento do sistema.
+Este projeto tem como objetivo realizar a análise e validação de um sistema web de rotas urbanas, com foco na identificação de falhas, inconsistências e padrões de comportamento.
 
-A abordagem aplicada combina técnicas de testes de software com análise de dados, permitindo identificar padrões e possíveis falhas nos cálculos de tempo e custo de trajetos.
+A abordagem adotada combina técnicas de testes de software com análise estruturada de dados de entrada, permitindo validar o funcionamento do sistema e garantir a conformidade com os requisitos definidos.
 
 🎯 Objetivos
 
-Validar requisitos funcionais do sistema
+Identificar falhas e inconsistências no sistema
 
-Identificar possíveis falhas nos cálculos de rotas
+Validar funcionalidades com base em requisitos
 
-Analisar comportamento do sistema com base em dados de entrada
+Analisar padrões de comportamento do sistema
 
 Garantir consistência entre regras de negócio e resultados
 
@@ -20,33 +20,37 @@ Garantir consistência entre regras de negócio e resultados
 
 🔹 Análise de requisitos
 
-Realização da decomposição dos requisitos do sistema, estruturando as informações para melhor compreensão e identificação de possíveis inconsistências.
+Realização da decomposição dos requisitos do sistema, estruturando as informações para melhor compreensão, identificação de áreas ambíguas e validação das regras de negócio.
 
-**Tabela com classes de equivalência**
+📎 Artefatos desenvolvidos:
+
+Tabela de classes de equivalência
 
 ![image](https://github.com/LucasSaturnino/-Tripleten-Sprint-01/assets/149327395/3049e0b4-119a-403d-89b2-401640d3d95c)
 
-🔹 Modelagem de cenários
+🔹 Modelagem de testes
 
 Criação de representações visuais (mapa mental e fluxograma) para facilitar a análise do fluxo do sistema e suas regras de funcionamento.
 
-**Mapa Mental**
+Mapa mental
 
 ![urban-routes-revisado_page-0001](https://github.com/LucasSaturnino/-Tripleten-Sprint-01/assets/149327395/c534e978-363c-4256-91c8-9a91a4e8ff9b)
 
-**Fluxograma**
+Fluxograma
 
 ![Sem título](https://github.com/LucasSaturnino/-Tripleten-Sprint-01/assets/149327395/86884b86-bcd6-47b3-bbc3-f0c1ecc9ecfd)
 
-🔹 Técnicas de teste
+Particionamento por classes de equivalência
 
-Aplicação de:
+Análise de valores limite
 
-**Particionamento por classes de equivalência**
+📎 Artefatos desenvolvidos:
+
+Tabela de classes de equivalência
 
 ![image](https://github.com/LucasSaturnino/-Tripleten-Sprint-01/assets/149327395/144c29ee-b639-442c-a6b4-5c54b96a7907)
- 
-**Análise de valores limite**
+
+Casos de teste
 
 ![image](https://github.com/LucasSaturnino/-Tripleten-Sprint-01/assets/149327395/f9c0e8c6-5ebe-41fb-8680-08028ac046fe)
 
@@ -60,23 +64,23 @@ Definição de classes de equivalência
 
 Elaboração de casos de teste
 
-Análise de cálculos de custo e tempo de trajetos
+Análise do comportamento do sistema com diferentes entradas
 
 📈 Resultados
 
-A análise permitiu validar o comportamento do sistema e identificar possíveis inconsistências nos cálculos de tempo e custo das rotas, contribuindo para a melhoria da qualidade e confiabilidade da aplicação.
+A análise permitiu validar o comportamento do sistema e identificar possíveis inconsistências nos dados de entrada e nas regras de funcionamento, contribuindo para a melhoria da qualidade e confiabilidade da aplicação.
 
 🛠️ Ferramentas utilizadas
+
+Testes manuais
 
 Figma
 
 Jira
 
-Swagger
-
 📊 Evolução para Análise de Dados
 
-Este projeto contribuiu para o desenvolvimento de habilidades analíticas, como identificação de padrões, validação de dados e interpretação de resultados, que são fundamentais na área de análise de dados.
+Este projeto contribuiu para o desenvolvimento de habilidades analíticas, como identificação de padrões, validação de dados e interpretação de resultados, fundamentais para a área de análise de dados.
 
 
 
