@@ -1,3 +1,20 @@
+📊 Análise e Validação de Sistema – Urban Routes
+📌 Descrição
+
+Este projeto tem como objetivo analisar e validar o funcionamento de um aplicativo web de rotas urbanas, com foco na identificação de inconsistências, validação de requisitos e análise de comportamento do sistema.
+
+A abordagem aplicada combina técnicas de testes de software com análise de dados, permitindo identificar padrões e possíveis falhas nos cálculos de tempo e custo de trajetos.
+
+🎯 Objetivos
+
+Validar requisitos funcionais do sistema
+
+Identificar possíveis falhas nos cálculos de rotas
+
+Analisar comportamento do sistema com base em dados de entrada
+
+Garantir consistência entre regras de negócio e resultados
+
 🧠 Metodologia
 
 🔹 Análise de requisitos
