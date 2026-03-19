@@ -1,4 +1,5 @@
 🧠 Metodologia
+
 🔹 Análise de requisitos
 
 Realização da decomposição dos requisitos do sistema, estruturando as informações para melhor compreensão e identificação de possíveis inconsistências.
@@ -7,11 +8,14 @@ Realização da decomposição dos requisitos do sistema, estruturando as inform
 
 Criação de representações visuais (mapa mental e fluxograma) para facilitar a análise do fluxo do sistema e suas regras de funcionamento.
 
+**Mapa Mental**
+
 ![urban-routes-revisado_page-0001](https://github.com/LucasSaturnino/-Tripleten-Sprint-01/assets/149327395/c534e978-363c-4256-91c8-9a91a4e8ff9b)
-(Mapa Mental)
+
+**Fluxograma**
 
 ![Sem título](https://github.com/LucasSaturnino/-Tripleten-Sprint-01/assets/149327395/86884b86-bcd6-47b3-bbc3-f0c1ecc9ecfd)
-(Fluxograma)
+
 
 🔹 Técnicas de teste
 
