@@ -1,11 +1,55 @@
-**Objetivo**
+🧠 Metodologia
+🔹 Análise de requisitos
 
-Aplicar técnicas desenvolvidas no curso de Analista de testes/QA da TripleTen.
+Realização da decomposição dos requisitos do sistema, estruturando as informações para melhor compreensão e identificação de possíveis inconsistências.
 
-**Introdução**
+🔹 Modelagem de cenários
 
-A primeira sprint objetiva a decomposição e visualização dos requisitos de um aplicativo web “Urban Routes”, preparo de casos de testes básicos e uso do conceito de particionamento de classes de equivalência e limites.
- 
+Criação de representações visuais (mapa mental e fluxograma) para facilitar a análise do fluxo do sistema e suas regras de funcionamento.
+
+![urban-routes-revisado_page-0001](https://github.com/LucasSaturnino/-Tripleten-Sprint-01/assets/149327395/c534e978-363c-4256-91c8-9a91a4e8ff9b)
+(Mapa Mental)
+
+![Sem título](https://github.com/LucasSaturnino/-Tripleten-Sprint-01/assets/149327395/86884b86-bcd6-47b3-bbc3-f0c1ecc9ecfd)
+(Fluxograma)
+
+🔹 Técnicas de teste
+
+Aplicação de:
+
+Particionamento por classes de equivalência
+
+Análise de valores limite
+
+🔍 Atividades realizadas
+
+Estruturação e análise de requisitos do sistema
+
+Criação de mapa mental para visualização dos fluxos
+
+Definição de classes de equivalência
+
+Elaboração de casos de teste
+
+Análise de cálculos de custo e tempo de trajetos
+
+📈 Resultados
+
+A análise permitiu validar o comportamento do sistema e identificar possíveis inconsistências nos cálculos de tempo e custo das rotas, contribuindo para a melhoria da qualidade e confiabilidade da aplicação.
+
+🛠️ Ferramentas utilizadas
+
+Figma
+
+Jira
+
+Swagger
+
+📊 Evolução para Análise de Dados
+
+Este projeto contribuiu para o desenvolvimento de habilidades analíticas, como identificação de padrões, validação de dados e interpretação de resultados, que são fundamentais na área de análise de dados.
+
+
 **Resultado**
 
 - Parte 1
